@@ -15,7 +15,7 @@
                                 <li>
                                     <a href="index.html">
                                         <i class="ion-ios-home"></i>
-                                        Home
+                                        Home inci
                                     </a>
                                 </li>
                                 <li class="active">Service</li>
